@@ -1,0 +1,14 @@
+User
+ ├── user_id
+ ├── name
+ ├── email
+
+Novel
+ ├── novel_id
+ ├── title
+ ├── genre
+
+Bookmark
+ ├── bookmark_id
+ ├── user_id
+ ├── novel_id

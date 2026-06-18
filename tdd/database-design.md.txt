@@ -1,0 +1,17 @@
+Users    Table
+Field	 Type
+id	 INT
+name	 VARCHAR
+email	 VARCHAR
+password VARCHAR
+Novels   Table
+Field	 Type
+id	 INT
+title	 VARCHAR
+genre	 VARCHAR
+author	 VARCHAR
+Bookmarks Table
+Field	  Type
+id	  INT
+user_id	  INT
+novel_id  INT

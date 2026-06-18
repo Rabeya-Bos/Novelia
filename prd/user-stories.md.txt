@@ -1,0 +1,7 @@
+Reader
+As a reader, I want to search novels by genre so that I can find relevant stories.
+As a reader, I want to bookmark chapters so that I can continue later.
+Author
+As an author, I want to upload novels so that readers can access my work.
+Admin
+As an admin, I want to manage users and content to ensure platform quality.

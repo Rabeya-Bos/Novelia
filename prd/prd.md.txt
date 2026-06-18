@@ -1,0 +1,16 @@
+Product Goal
+Provide a modern reading platform for discovering and enjoying web novels and ebooks.
+
+Core Features
+User Registration/Login
+Genre Browsing
+Search System
+Reading Interface
+Bookmarking
+Reading History
+Recommendation Engine
+
+Success Metrics
+User retention rate
+Reading completion rate
+Daily active users

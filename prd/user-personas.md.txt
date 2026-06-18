@@ -1,0 +1,9 @@
+Persona 1: Ayesha
+Age: 21
+Student
+Reads fantasy novels daily
+Goals
+Find new novels quickly
+Track reading progress
+Pain Points
+Poor recommendation systems

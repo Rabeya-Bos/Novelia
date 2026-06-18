@@ -1,0 +1,5 @@
+Frontend (React)
+        ↓
+Backend API (Node.js/Express)
+        ↓
+MySQL Database

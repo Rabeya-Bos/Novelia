@@ -1,0 +1,13 @@
+Visit Website
+     ↓
+Sign Up/Login
+     ↓
+Browse Genres
+     ↓
+Select Novel
+     ↓
+Read Chapters
+     ↓
+Bookmark Progress
+     ↓
+Receive Recommendations

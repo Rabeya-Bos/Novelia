@@ -1,0 +1,18 @@
+Problem Statement
+
+Many readers struggle to find quality web novels and ebooks in one centralized platform. Existing solutions often suffer from:
+
+Poor content discovery
+Limited personalization
+Cluttered interfaces
+Lack of reading progress synchronization
+Insufficient genre diversity
+Proposed Solution
+
+Novelia provides:
+
+Personalized recommendations
+Smart search and filtering
+Reading progress tracking
+Bookmarking functionality
+Multi-device accessibility

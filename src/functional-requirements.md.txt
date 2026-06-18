@@ -1,0 +1,18 @@
+Authentication
+User registration
+User login
+Password reset
+
+Reading
+Open ebook/web novel
+Bookmark chapters
+Reading history tracking
+
+Search
+Search by title
+Search by genre
+Search by author
+
+Admin
+Manage users
+Manage content

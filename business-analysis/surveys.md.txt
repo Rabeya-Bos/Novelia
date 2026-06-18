@@ -1,0 +1,13 @@
+Survey Statistics
+
+Sample Size: 50 Readers
+
+Question	Result
+Read online novels regularly	84%
+Need recommendation system	90%
+Want bookmarking feature	88%
+Prefer mobile reading	        92%
+
+
+Conclusion
+Users strongly prefer personalized reading experiences.

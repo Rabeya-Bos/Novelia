@@ -1,0 +1,10 @@
+Combine:
+
+Functional Requirements
+Non-Functional Requirements
+Use Cases
+DFD
+Constraints
+Assumptions
+
+into a complete SRS document.

@@ -1,0 +1,9 @@
+Search Feature
+Given a user enters a keyword
+When they submit the search
+Then matching novels should be displayed.
+
+Bookmark Feature
+Given a logged-in user
+When they bookmark a chapter
+Then the bookmark should be saved successfully.

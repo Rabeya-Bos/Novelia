@@ -1,0 +1,16 @@
+Level 0 DFD
+Reader
+   ↓
+Novelia System
+   ↓
+Database
+Level 1 DFD
+Reader
+   ↓
+Authentication Module
+   ↓
+Novel Management
+   ↓
+Recommendation Engine
+   ↓
+Database

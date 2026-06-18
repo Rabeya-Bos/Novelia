@@ -1,0 +1,6 @@
+Stakeholder	Interest	             Responsibility
+Readers	Read    novels and ebooks	     Primary users
+Authors	        Publish content	             Content providers
+Admins	        Manage platform	             System maintenance
+Developers	Build and maintain system    Technical implementation
+Investors	Business growth	             Funding and strategy

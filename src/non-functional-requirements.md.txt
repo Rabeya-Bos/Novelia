@@ -1,0 +1,12 @@
+Performance
+Page load time < 3 seconds
+
+Security
+Password encryption
+Secure authentication
+
+Availability
+99% uptime
+
+Usability
+Mobile responsive design
